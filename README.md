@@ -1,6 +1,6 @@
 # Microsoft_codefundo
 
-We have decided to make a web app and for each part of problem statement we will have sections and we will cover all the natural disasters .
+We have decided to make a web app and for each part of problem statement , we will have different sections and we will be trying to cover almost all the natural disasters .
 ## Before disaster strikes:
 1. We will have a prediction model which will predict the intensity of few common disaster on the respective scales they are calculated , the user would just need to tell the area of residence our web app will obtain the information about the place from the satellite directly .
 2. For awareness throughout  the year there will be people who will write blogs and also make videos for our webapp . And the ones who will write these post will include NGO’s , students who would be studying these subjects on disaster management(Actually we will introduce this web app in there institutes so that by writing blogs they will be able to serve there motive of studying the subject),we are planning to join hands with professionals to write blogs.
